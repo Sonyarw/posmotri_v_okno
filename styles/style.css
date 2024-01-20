@@ -50,7 +50,6 @@ ol {
   display: flex;
   justify-content: space-between;
   gap: 31px;
-  align-items: flex-start;
   align-items: flex-end;
 }
 
